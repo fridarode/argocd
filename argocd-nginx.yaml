@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     # path to the folder with the YAML manifests
-    path: 
+    path: nginx-manifests
     repoURL: https://github.com/fridarode/argocd 
     targetRevision: HEAD
   # Sync policy
