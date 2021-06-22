@@ -10,8 +10,8 @@ spec:
   project: default
   source:
     # path to the folder with the YAML manifests
-    path: argocd
-    repoURL: https://github.com/fridarode 
+    path: 
+    repoURL: https://github.com/fridarode/argocd 
     targetRevision: HEAD
   # Sync policy
   syncPolicy: {}

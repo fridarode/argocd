@@ -13,5 +13,5 @@ spec:
       valueFiles:
       - values-prod.yaml 
     path: helm/python-helloworld 
-    repoURL: https://github.com/fridarode
+    repoURL: https://github.com/fridarode/argocd
     targetRevision: HEAD
